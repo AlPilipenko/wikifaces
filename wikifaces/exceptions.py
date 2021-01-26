@@ -1,0 +1,23 @@
+exceptions =    ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December',
+                 'Retrieved','with', 'from', 'their', 'that', 'also', 'number', 'second', 'weeks', 'Archived', 'citation', 'continue', 'once',
+                 'which', 'were', 'first','began', 'about', 'amw-parser-output', 'Weekly.','just', 'included', 'far', 'DeseretNewscom',
+                 'born', 'them', 'and', 'the', 'his', 'las','After','Age','And','Time','because','between', 'bring', 'bringing', 'called',
+                 'each', 'had', 'held', 'him', 'linksArticles', 'list','media', 'met', 'most' 'new', 'now', 'only', 'past', 'such', 'than',
+                 'Stop', 'where', 'you', 'About', 'BYU', 'During', 'New', 'Quite', 'more', 'one', 'two', 'three','His', 'some','they', 'been',
+                 'Like','retrieved', 'For', 'More','this','external','Their', 'not', 'longest','many', 'most', 'Not','Are', 'under', 'Has',
+                 'was', 'The','articles','for','has','original','after', 'who','have', 'are', 'would', 'BBC','identifiersWikipedia','into',
+                 'said', 'since','but','became', 'highest','when', 'News', 'any', 'well','This','With','how','further', 'came', 'again',
+                 'how', 'including', 'reported', 'until', 'via', 'will','before', 'both','time','report', 'term', 'those', 'through', 'say',
+                 'while', 'worth', 'From','Daily','get', 'her','age', 'named','official','although','Home','Some','days','near', 'next', 'come',
+                 'set','Most', 'what','Press','image','did','name','unsourced', 'use', 'uses', 'valued','often','press','authors','sent',
+                 'copy', 'could','NBC','all','announcement', 'due','off','then', 'third', 'throughout', 'took','include','instead','its',
+                 'against','during','over','she','Aug','Jul', 'Jun', 'Dec','Jan','Feb','Mar','Apr', 'May','Sep','Oct','Nov','months','First',
+                 'They','very','later','out','She','Her','Two','Worthington', 'harvnb','whom', 'based','eventually','Fox','When','date', 'net',
+                 'though', 'too','Him','Although','Further','While','five','archived','other','years','described','Than', 'Times','sources',
+                 'Episode','worked', 'several','six','new','released','accepted','episode','want','being','myself','recent', 'search', 'ever',
+                 'thing','put','men', None, 'Man', 'year', 'back','can', 'color', 'form','man','our', 'end', 'die', 'All','SBN','ten','ISBN',
+                 'view', 'origin', 'article', 'left', 'You', 'view', 'day','Post', 'old', 'source','Telegraph', 'den','Wikipedia','part', 'Was',
+                 'nom', 'Sept', 'mit', 'Tim', 'led', 'und', 'per', 'era', 'None', 'der', 'side','Unit','How', 'sign','output','line','own','eve',
+                 'According', 'ISSN', 'Other', 'seen', 'announced', 'Main'
+
+                 ]

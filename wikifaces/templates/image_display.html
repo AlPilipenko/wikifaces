@@ -1,0 +1,29 @@
+{% extends 'layout.html' %}
+{% block content %}
+{% if title %}
+  <title>Wikifaces - {{ title }}</title>
+{% else %}
+  <title>Wikifaces</title>
+{% endif %}
+
+<div class="#" style="position: absolute; left: 15%; line-height: -4rem">
+
+
+  <a class="btn btn-dark" href="{{ url_for('routes.home', filename=file) }}" role="button"
+                                                    data-inline="true">Return</a>
+  <a class="btn btn-dark" href="{{ url_for('routes.remake', data=title, filename=file) }}" role="button"
+                                                    data-inline="true">Remake</a>
+  <a class="btn btn-dark" href="{{ url_for('routes.download_file', filename=file) }}"
+                                  role="button" data-inline="true">Download</a>
+
+  <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='main.css') }}">
+
+
+</div>
+<div class="img-content-section" style="width:auto; height:auto">
+  <img src="{{ file[10:] }}" alt="{{ title }}" style="max-height: 850px">
+
+</div>
+
+
+{% endblock content %}
